@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2104571f-06a9-41df-a58a-356850c90f07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python作业/store_test/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python作业/store_test/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python作业/store_test/booktest/migrations/0007_pictest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day10_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day10_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day11_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day11_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day12_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day12_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day13_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day13_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day14_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day14_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day21_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day21_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day22_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day22_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day5_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day5_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day6_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day6_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day7_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day7_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day8_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day8_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day9_李菁菁-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/day9_李菁菁-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/py100-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/py100-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/py75-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/.ipynb_checkpoints/py75-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/12_判断奇数偶数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/12_判断奇数偶数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/13_判断闰年.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/13_判断闰年.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/14_获取最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/14_获取最大值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/15_质数判断.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/15_质数判断.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/16_输出指定范围内的素数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/16_输出指定范围内的素数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/17_python阶乘实例.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/17_python阶乘实例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/18_九九乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/18_九九乘法表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/19_斐波那契数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/19_斐波那契数列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/20_阿姆斯特朗数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/20_阿姆斯特朗数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/21_十进制转二进制八进制十六进制" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/22_ASCII码与字符相互转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/22_ASCII码与字符相互转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/23_最大公约数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/23_最大公约数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/24_最小公倍数.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/24_最小公倍数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/25_简单计算器实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/25_简单计算器实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/26_生成日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/26_生成日历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/27_使用递归斐波那契数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/27_使用递归斐波那契数列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/2_数字求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/2_数字求和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/35_五人分鱼.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/35_五人分鱼.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/The_Holy_Bible.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/The_Holy_Bible.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day10_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day10_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day11_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day11_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day12_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day12_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day13_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day13_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day14_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day14_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/2_getpid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/2_getpid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/3_changeglobalvalue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/3_changeglobalvalue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/4_write_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/4_write_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/6_多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/6_多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/7_readfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/7_readfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/8_exitcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/8_exitcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/day19_作业.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/day19_作业.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day19_李菁菁/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/process_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/whiletrue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/~$y19_作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day19_李菁菁/~WRL2224.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/4_deadlock.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/4_deadlock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/6_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/6_iter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/day20_李菁菁.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day20_李菁菁/day20_李菁菁.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day20_李菁菁/~$y20_李菁菁.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day21_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day21_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day22_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day22_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/6_multiple_super.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/6_multiple_super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/epoll_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/epoll_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/gevent_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/gevent_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/多进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/多进程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/非阻塞.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/WebServer/非阻塞.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/day23_李菁菁.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/day23_李菁菁.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/multiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/nat_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/nat_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/nat_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/nat_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/~$y23_李菁菁.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/~WRL2202.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/拷贝.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/拷贝.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day23_李菁菁/重写.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day23_李菁菁/重写.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day25_李菁菁/parctice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day25_李菁菁/parctice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day25_李菁菁/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day25_李菁菁/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day5_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day5_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day6_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day6_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day7_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day7_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day8_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day8_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/day9_李菁菁.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/day9_李菁菁.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/if语句.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/network_disk/disk_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/network_disk/disk_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/prin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/prin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/py100.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/py100.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/py75.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/py75.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/readme" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/readme1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/booktest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/booktest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/booktest/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/booktest/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/booktest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/booktest/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/booktest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/booktest/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/store_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/store_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/store_test/store_test/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/store_test/store_test/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/交换变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/判断字符串是否为数字.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/摄氏转华氏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/片名管理系统.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/片名管理系统.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../python作业/笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/计算三角形的面积.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/计算圆的面积.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python作业/随机数生成.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/.idea/day13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/1.排序算法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/day13/2.二分查找和哈希查找.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/navicat121_premium_cs_x64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/vim操作.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../python学习/vim操作.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/~$y19_作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/~$y20_作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/~$y23_作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/~$y24_作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/代码/day17_claude/.idea/day17_claude.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python学习/课堂笔记.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+              <folding>
+                <element signature="e#36#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/views.py" />
+        <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1297" />
+    <option name="height" value="1398" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2104571f-06a9-41df-a58a-356850c90f07" name="Default Changelist" comment="" />
+      <created>1615992686367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615992686367</updated>
+      <workItem from="1615992687961" duration="382000" />
+      <workItem from="1616331017019" duration="742000" />
+      <workItem from="1616334415772" duration="4413000" />
+      <workItem from="1616388676950" duration="4175000" />
+      <workItem from="1616601402185" duration="1141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25974026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3296371" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="96" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+          <folding>
+            <element signature="e#36#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

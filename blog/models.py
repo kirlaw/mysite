@@ -5,8 +5,14 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 
+# 管理器
+class PublishedManager(models.Manager):
+    def get_queryset(self):
+        return super(PublishedManager, self).get_queryset().filter(status='published')
+
+
 # 博客贴子
-class Port(models.Model):
+class Post(models.Model):
     STATUS_CHOICES = (
         ('draft', 'Draft'),
         ('published', 'Published')
@@ -25,3 +31,6 @@ class Port(models.Model):
 
     def __str__(self):
         return self.title
+
+    object = models.Manager()
+    published = PublishedManager()
