@@ -1,0 +1,44 @@
+{% extends 'blog/base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{{ post.title }}{% endblock %}</title>
+</head>
+<body>
+{% block content %}
+    <h1>{{ post.title }}</h1>
+    <p class="date">
+        {{ post.publish }} by {{ post.author }}
+    </p>
+    {{ post.body|linebreaks }}
+
+    {% with comments.count as total_comments %}
+        <h2>{{ total_comments }}comment{{ total_comments|pluralize }}</h2>
+    {% endwith %}
+
+    {% for comment in comments %}
+        <div class="comment">
+            <p class="info">
+                Comment {{ forloop.counter }} by {{ comment.name }}
+                {{ comment.created }}
+            </p>
+            {{ comment.body|linebreaks }}
+        </div>
+    {% empty %}
+        <p>当前还没有评论。</p>
+    {% endfor %}
+
+    {% if new_comment %}
+        <h2>你的评论已经被添加</h2>
+    {% else %}
+        <h2>添加一条新评论</h2>
+        <form action="." method="post">
+            {{ comment_form.as_p }}
+            {% csrf_token %}
+            <p><input type="submit" value="添加评论"></p>
+        </form>
+    {% endif %}
+{% endblock content %}
+</body>
+</html>

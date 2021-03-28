@@ -1,6 +1,8 @@
 from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
+from django.urls import reverse
+from taggit.managers import TaggableManager
 
 
 # Create your models here.
@@ -26,6 +28,8 @@ class Post(models.Model):
     updated = models.DateTimeField(auto_now=True)  # 贴子最后更新时间，每次更新时间自动保存
     status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='draft')
 
+    tags = TaggableManager()
+    
     class Mate:
         ordering = ('-publish',)  # 降序排序，最新发布的贴子先显示
 
@@ -34,3 +38,27 @@ class Post(models.Model):
 
     object = models.Manager()
     published = PublishedManager()
+
+    # 链接到特定贴子
+    def get_absolute_url(self):
+        return reverse('blog:post_detial',
+                       args=[self.publish.year,
+                             self.publish.month,
+                             self.publish.day,
+                             self.slug])
+
+
+# 评论系统
+class Comment(models.Model):
+    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name='comments')
+    name = models.CharField(max_length=80)
+    body = models.TextField()
+    created = models.DateTimeField(auto_now_add=True)
+    updated = models.DateTimeField(auto_now=True)
+    active = models.BooleanField(default=True)
+
+    class Meta:
+        ordering = ('created',)
+
+    def __str__(self):
+        return 'Comment by {} on {}'.format(self.name, self.post)

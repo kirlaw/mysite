@@ -1,0 +1,36 @@
+{% extends 'blog/base.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Blog{% endblock %}</title>
+</head>
+<body>
+{% block content %}
+    <h1>This is a Blog</h1>
+    {% for post in posts %}
+        {% if tag %}
+            <h2>标签："{{ tag.name }}"</h2>
+        {% endif %}
+        <h2>
+            <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="tags">
+            标签：
+            {% for tag in posts.tags.all %}
+                <a href="{% url 'blog:post_list_by_tag' tag.slug %}">
+                    {{ tag.name }}
+                </a>
+                {% if not forloop.last %},{% endif %}
+            {% endfor %}
+        </p>
+        <p class="date">
+            发布时间{{ post.publish }}by{{ post.author }}
+        </p>
+        {#内容概览#}
+        {{ post.body|truncatewords:30|linebreaks }}
+    {% endfor %}
+    {% include 'pagination.html' with page=posts %}
+{% endblock %}
+</body>
+</html>
